@@ -18,6 +18,6 @@
 #
 ---
 include:
-  - board: peacock_controller
+  #- board: peacock_controller
   - board: peacock_controller
     shield: peacock_vik_module
